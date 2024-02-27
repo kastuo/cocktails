@@ -7,8 +7,8 @@ Variables
   --primaryLightColor: #d4e6a5;
   --primaryColor: #476a2e;
   --primaryDarkColor: #c02c03;
-  --mainWhite: #122526;
-  --offWhite: #f7f7f7;
+  --mainWhite: #3a5a40;
+  --offWhite: #dad7cd;
   --mainBackground: #585d61c1;
   --mainOverlay: rgba(35, 10, 36, 0.4);
   --mainBlack: #222;
@@ -42,7 +42,7 @@ body {
   background: var(--mainBackground);
   line-height: 1.4;
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 h1,
 h2,
