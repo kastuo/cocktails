@@ -4,4 +4,4 @@ Find your favorite cocktail
 
 Live: https://cocktails-oscar.vercel.app/
 
-[https://ibb.co/0MgkTVx]
+(https://i.ibb.co/Snh2b7z/cap.jpg)
