@@ -1,15 +1,5 @@
-#### React Router Fix
+## Oscar's cocktails finder
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Find your favorite cocktail
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+Live: https://cocktails-oscar.vercel.app/
