@@ -7,9 +7,9 @@ Variables
   --primaryLightColor: #d4e6a5;
   --primaryColor: #476a2e;
   --primaryDarkColor: #c02c03;
-  --mainWhite: #fff;
+  --mainWhite: #122526;
   --offWhite: #f7f7f7;
-  --mainBackground: #f1f5f8c1;
+  --mainBackground: #585d61c1;
   --mainOverlay: rgba(35, 10, 36, 0.4);
   --mainBlack: #222;
   --mainGrey: #ececec;
@@ -38,7 +38,7 @@ Global Styles
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  color: var(--mainBlack);
+  color: #c69c6d;
   background: var(--mainBackground);
   line-height: 1.4;
   font-size: 1rem;
@@ -79,7 +79,7 @@ Buttons
 .btn-primary {
   text-transform: uppercase;
   letter-spacing: var(--mainSpacing);
-  color: var(--primaryColor);
+  color: #fff;
   border: 2px solid var(--primaryColor);
   padding: 0.45rem 0.8rem;
   display: inline-block;
@@ -104,7 +104,7 @@ Buttons
   color: var(--primaryColor);
 }
 .btn-primary {
-  background: var(--primaryColor);
+  background: #c69c6d;
   color: var(--mainWhite);
   border-color: transparent;
 }
@@ -161,6 +161,8 @@ Navbar
   font-size: 1.2rem;
   padding: 0.25rem 0.5rem;
   transition: var(--mainTransition);
+  color:#c69c6d;
+  
 }
 .nav-links a:hover {
   color: var(--primaryColor);
@@ -292,7 +294,7 @@ Form
   margin-bottom: 1.25rem;
   font-weight: bold;
   letter-spacing: 0.25rem;
-  color: var(--primaryColor);
+  color: #c69c6d;
 }
 .form-control input {
   width: 100%;
